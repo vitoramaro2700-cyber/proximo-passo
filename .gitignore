@@ -1,0 +1,26 @@
+# Build
+target/
+!.mvn/wrapper/maven-wrapper.properties
+
+# Banco de dados local (SQLite) – gerado ao rodar a aplicação
+*.db
+*.db-journal
+
+# IDEs
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+.springBeans
+.sts4-cache/
+.idea/
+*.iml
+.vscode/
+.apt_generated
+
+# Sistema / logs
+.DS_Store
+Thumbs.db
+*.log
+HELP.md
