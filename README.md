@@ -10,6 +10,12 @@ Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas, desenvolv
 - Listagem dos registros salvos em tabela
 - Persistência local em SQLite, criada automaticamente na primeira execução
 
+## Telas
+
+![Cadastro](docs/cadastro.png)
+
+![Listagem](docs/listagem.png)
+
 ## Tecnologias
 
 - Java 17
